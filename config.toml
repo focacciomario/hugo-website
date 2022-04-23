@@ -10,8 +10,8 @@ googleAnalytics = "UA-PROPERTY_ID"
   images = ['/digital-garden-logo.png']
 
 [Params.newsletter]
-  title = "Wants to keep updated?"
-  description = "A curated weekly digest once a week to your mailbox"
+  title = "Do you want to receive some news?"
+  description = "Leave here your email, a curated monthly digest once a month to your mailbox"
   path = "https://www.getrevue.co/profile/focacciomario/add_subscriber"
 
 [menu]
@@ -28,8 +28,8 @@ googleAnalytics = "UA-PROPERTY_ID"
   url = '/portfolio'
   weight = 3
 [[menu.main]]
-  name = 'Stack'
-  url = '/stack'
+  name = 'Experiences'
+  url = '/experiences'
   weight = 4
 [[menu.main]]
   name = 'Polywork'

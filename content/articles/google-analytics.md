@@ -1,6 +1,11 @@
 ---
 title: 6. Google Analytics
 date: 2021-12-18
+tags:
+- Development
+- Go
+- fast
+- Blogging
 ---
 
 Digital garden theme utilizes the Hugo's [internal template](internal 
