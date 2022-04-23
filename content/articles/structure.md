@@ -23,12 +23,12 @@ studies
 │       └── project-2.md
 ├── data                    # Test files (alternatively `spec` or 
 `tests`)
-│   └── stack.json          # Data used for rendering the list in 
-Stack page
+│   └── experiences.json          # Data used for rendering the list in 
+Experiences page
 └── ...
 ```
 
-Note that articles, portfolio and also stack pages require you to create 
+Note that articles, portfolio and also experiences pages require you to create 
 `_index.md` inside of it. Refer the 
 [exampleSite](https://github.com/apvarun/digital-garden-hugo-theme/tree/main/exampleSite) 
 in theme.
